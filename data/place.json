@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "hotel_category": "001",
+        "name": "Petronas Twin Towers",
+        "image_url": "https://images.unsplash.com/photo-1595531558702-ced3f3eb18b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "description": "The Petronas Twin Towers are a pair of iconic skyscrapers in Kuala Lumpur, Malaysia. They were the tallest buildings in the world from 1998 to 2004 and remain the tallest twin towers in the world. Visitors can take a tour of the towers and enjoy stunning views of the city from the observation deck on the 86th floor."
+    },
+    {
+        "id": 2,
+        "hotel_category": "002",
+        "name": "Batu Caves",
+        "image_url": "https://images.unsplash.com/photo-1600834672703-cbe39d8efc0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=661&q=80",
+        "description": "Batu Caves is a limestone hill that has a series of caves and cave temples in Gombak, Selangor, Malaysia. The caves are one of the most popular Hindu shrines outside India, and attract thousands of visitors during the annual Thaipusam festival. Visitors can climb the 272 steps to the main cave and explore the various Hindu shrines and statues inside."
+    },
+    {
+        "id": 3,
+        "hotel_category": "003",
+        "name": "Langkawi",
+        "image_url": "https://images.unsplash.com/photo-1537181591432-412768324e9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+        "description": "Langkawi is an archipelago of 99 islands in the Andaman Sea, some 30km off the mainland coast of northwestern Malaysia. The islands are known for their beautiful beaches, clear blue waters, and stunning natural landscapes. Visitors can enjoy a variety of water sports, take a cable car ride to the top of Mount Mat Cincang, or explore the island's many cultural and historical attractions."
+    },
+    {
+        "id": 4,
+        "hotel_category": "004",
+        "name": "George Town",
+        "image_url": "https://images.unsplash.com/photo-1566447111533-e887325a059e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=757&q=80",
+        "description": "George Town is the capital city of the Malaysian state of Penang. It is known for its rich cultural heritage and historical landmarks, including the Penang Peranakan Mansion, the Cheong Fatt Tze Mansion, and the Fort Cornwallis. Visitors can explore the city's street art, sample its famous street food, and shop for souvenirs in its many markets and bazaars."
+    },
+    {
+        "id": 5,
+        "hotel_category": "005",
+        "name": "Mount Kinabalu",
+        "image_url": "https://images.unsplash.com/photo-1670308490572-600d71fd23fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+        "description": "Mount Kinabalu is the highest mountain in Malaysia, and one of the highest peaks in Southeast Asia. It is located in the state of Sabah on the island of Borneo, and is known for its stunning natural beauty and unique ecological diversity. Visitors can hike to the summit of the mountain, which offers breathtaking views of the surrounding landscape, or explore the nearby Kinabalu Park, which is a UNESCO World Heritage Site."
+    },
+    {
+        "id": 6,
+        "hotel_category": "006",
+        "name": "Taman Negara",
+        "image_url": "https://images.unsplash.com/photo-1571589246138-60dc080e4c09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+        "description": "Taman Negara is a national park in Peninsular Malaysia, known for its dense rainforests, wildlife, and scenic beauty. Visitors can go on jungle treks, river cruises, and canopy walks to explore the park's natural wonders, or visit the Orang Asli settlements to learn about the indigenous peoples who live in the area. Taman Negara."
+    },
+    {
+        "id": 1,
+        "name": "Taman Negara Resort",
+        "location": "Kuala Tahan, Pahang",
+        "description": "Taman Negara Resort is located at the entrance of Taman Negara National Park, offering a comfortable and convenient stay for visitors. The resort features chalets and rooms with modern amenities, a restaurant, and tour services.",
+        "image_url": "https://www.example.com/taman-negara-resort.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mutiara Taman Negara",
+        "location": "Kuala Tahan, Pahang",
+        "description": "Mutaira Taman Negara is a luxury eco-resort located in the heart of Taman Negara National Park. The resort features traditional Malay architecture, comfortable chalets and rooms, a spa, and a range of activities such as jungle trekking and river cruising.",
+        "image_url": "https://www.example.com/mutaira-taman-negara.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Rainforest Resort Taman Negara",
+        "location": "Kuala Tahan, Pahang",
+        "description": "Rainforest Resort Taman Negara is a secluded retreat nestled in the rainforest of Taman Negara National Park. The resort features spacious chalets and villas with private balconies, a restaurant serving local and Western cuisine, and a range of activities such as guided hikes and wildlife spotting.",
+        "image_url": "https://www.example.com/rainforest-resort-taman-negara.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Xcape Resort Taman Negara",
+        "location": "Kuala Tahan, Pahang",
+        "description": "Xcape Resort Taman Negara offers a unique glamping experience in the rainforest of Taman Negara National Park. The resort features luxury tents with modern amenities, a restaurant serving Malaysian and Western cuisine, and a range of activities such as kayaking and canopy walks.",
+        "image_url": "https://www.example.com/xcape-resort-taman-negara.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kumbang Hideaway Taman Negara",
+        "location": "Kuala Tahan, Pahang",
+        "description": "Kumbang Hideaway Taman Negara is a rustic retreat located in the rainforest of Taman Negara National Park. The resort features traditional wooden chalets, a communal dining area, and a range of activities such as night walks and river tubing.",
+        "image_url": "https://www.example.com/kumbang-hideaway-taman-negara.jpg"
+    }
+]
